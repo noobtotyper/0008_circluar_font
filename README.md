@@ -1,4 +1,4 @@
-# 0008_circluar_font
+# 0008_circular_font
 This repository is explained here: https://noobtotyper.neocities.org/noobtotypes/0008_circular_font.html
 
 The main file is CircularFont.py
